@@ -1,3 +1,8 @@
+# local env linters
+.eslintrc.json
+.stylelintrc.json
+.hintrc
+
 # Logs
 logs
 *.log
