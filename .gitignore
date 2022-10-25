@@ -5,6 +5,7 @@ test.md
 .eslintrc.json
 .stylelintrc.json
 .hintrc
+hint-report
 
 # Logs
 logs
