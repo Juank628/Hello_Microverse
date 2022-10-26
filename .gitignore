@@ -2,9 +2,6 @@
 test.md
 
 # local env linters
-.eslintrc.json
-.stylelintrc.json
-.hintrc
 hint-report
 
 # Logs
